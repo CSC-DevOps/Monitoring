@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "redis": "^3.0.2",
-    "systeminformation": "^4.23.1"
+    "systeminformation": "^5.3.1"
   }
 }
